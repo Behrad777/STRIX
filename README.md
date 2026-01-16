@@ -1,5 +1,5 @@
 # STRIX
-
+##Stabilized Rocket Information Exchange
 Embedded navigation and telemetry code for a guidance system prototype. The repository includes an extended Kalman filter (EKF) for attitude estimation, matrix utilities, and Arduino sketches for encrypted RF24 communications.
 
 ## Contents
