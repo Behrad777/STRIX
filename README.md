@@ -31,7 +31,4 @@ Open the sketches with the Arduino IDE or compatible tooling.
 - RF24 / nRF24L01+ driver library
 - AES and AESLib
 - Base64 (used by `GCS_MASTER.ino`)
-
-## Notes
-- AES keys and IVs are hard-coded in the sketches; update them before deployment.
-- The `fastmatrix.hpp` header is external; refer to its original source for license and provenance.
+    
